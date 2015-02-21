@@ -43,7 +43,7 @@ We also use a number of node.js tools to initialize. You must have node.js and i
 ### Clone 
 
 ```
-git https://github.com/sjcotto/KONAIonicUsersExample
+git clone https://github.com/DanielAron/KONAIonicUsersExample
 ```
 
 ### Configuration

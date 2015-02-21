@@ -1,7 +1,6 @@
 'use strict';
 
-
-var URL = 'https://app.konacloud.io/api/konacloud/users/mr_User';
+var URL = 'https://app.konacloud.io/api/daniel/TestIonic/mr_User';
 
 var app = angular.module('app', ['ionic'])
 
